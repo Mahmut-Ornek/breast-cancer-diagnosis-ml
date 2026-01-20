@@ -1,7 +1,8 @@
-# Breast Cancer Diagnosis Using Machine Learning
+# 🧬 Breast Cancer Diagnosis Using Machine Learning
 
 This project focuses on building an end-to-end supervised machine learning pipeline to classify breast tumors as **malignant** or **benign** using features extracted from fine needle aspirate (FNA) images.  
 The goal is to develop accurate, reliable, and interpretable models to support early breast cancer diagnosis.
+All experiments, evaluations, and results are conducted and documented in a single, fully reproducible Jupyter Notebook.
 
 > 📌 **Course Project (COE305 – Machine Learning)**  
 > **Role:** Primary contributor responsible for data preprocessing, exploratory data analysis, model development, evaluation, and hyperparameter tuning.
@@ -70,27 +71,14 @@ For medical diagnosis tasks, particular attention was given to **recall and fals
 ## 📁 Project Structure
 
 ```text
-breast-cancer-diagnosis-ml/
-│
-├── README.md
-├── requirements.txt
-│
+.
 ├── data/
-│   ├── raw/
-│   └── processed/
-│
+│   └── breast_cancer_data.csv
 ├── notebooks/
-│   └── eda.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── models.py
-│   ├── evaluation.py
-│   ├── train.py
-│   └── main.py
-│
-└── results/
+│   └── final_test.ipynb
+└── README.md
 ```
+
 ---
 
 ## 🔧 Technologies Used
