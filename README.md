@@ -11,6 +11,7 @@ All experiments, evaluations, and results are conducted and documented in a sing
 
 ## 📊 Dataset
 - **Source:** Breast Cancer Wisconsin (Diagnostic) Dataset (Kaggle / UCI)
+- [**Dataset Link**](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 - **Samples:** 569
 - **Features:** 30 numerical features
 - **Target Variable:**  
